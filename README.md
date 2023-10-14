@@ -6,7 +6,7 @@ All visual assets used for BICI rides will be stored here in a permenant fashion
 
 ## Useful assets
 
-Final versions of icons and logos are available [here](https://github.com/wmacmillan/bici-assets/tree/main/imgs/final-imgs). If you're just looking for ez-mode, here you go:
+Final versions of icons and logos are available [here](/imgs/final-imgs/). Flyers are available [here](/flyers/) If you're just looking for ez-mode, here you go:
 
 ![BICI in white, transparent background](imgs/final-imgs/bici-white-transparent-bg.png)
 ![BICI in black, transparent background](imgs/final-imgs/bici-black-transparent-bg.png)
