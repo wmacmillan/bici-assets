@@ -2,7 +2,7 @@
 
 ![The BICI logo, without the bicycle icon.](imgs/final-imgs/bici-white-transparent-bg.png)
 
-All visual assets used for BICI rides will be stored here in a permenant fashion for future reuse. Message the maintainer or `@bill_lol`` on Discord to add content to the repository, if you are not familiar with Git/Github. If you are familiar with the tools, feel free to submit a pull request to add more content.
+All visual assets used for BICI rides will be stored here in a permenant fashion for future reuse. Message the maintainer or `@bill_lol` on Discord to add content to the repository, if you are not familiar with Git/Github. If you are familiar with the tools, feel free to submit a pull request to add more content.
 
 ## Useful assets
 
